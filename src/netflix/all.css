@@ -1,0 +1,25 @@
+.netflix-back{
+    background-image: url(/assets/backHome.jpg);
+    color: white;
+    background-size: cover;
+    height: 768px;
+}
+section{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 768px;
+}
+.brand-title{
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    text-align: center;
+    }
+.register-Box{
+    width: 800px;
+}
